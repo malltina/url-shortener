@@ -14,3 +14,9 @@ That was all.
 - You’re free to persist data anywhere, A RDBMS like MySQL or even a file-based persistence
 - Neither authentication nor UI is needed
 - Don’t forget to write a Readme
+
+---
+
+Good luck,
+
+Malltina technical team
